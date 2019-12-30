@@ -1,0 +1,30 @@
+li{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin: 5px;
+    padding: 5px;
+    background-color: lightgrey;
+    border-radius: 10px;
+}
+
+a{
+    padding: 5px;
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #DC3545;
+}
+
+.important{
+  color: #DC3545;;
+  font-weight: bold;
+}
+
+.done{
+  font-style: italic;
+  text-decoration: line-through;
+}

@@ -1,0 +1,15 @@
+.adder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.adder a{
+    outline: none;
+    margin:5px 5px 5px 0;
+}
+
+.adder input{
+    outline: none;
+    padding: 5px;
+}

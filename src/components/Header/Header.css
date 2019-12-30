@@ -1,0 +1,15 @@
+header{
+  margin: 0 5px;
+  background-color: lightblue;
+  text-align: center;
+}
+
+h1{
+  padding: 15px;
+}
+
+.stats {
+  text-align: center;
+  padding: 8px;
+  font-weight: bold;
+}
